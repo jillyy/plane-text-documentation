@@ -6,7 +6,15 @@ The OLED performance and stability have been rapidly increased over the last yea
 
 
 Discussion:
+OLED has been not only an important display technology but also a promising option for energy-efficient lighting applications, due to its high efficient in emitting wavelength distributions (Lin, 2014).
+
+
 OLED is highly efficient in emitting distribution for displays and lightings. As an organic semiconductor, it has many unique physical properties, which surpass inorganic semiconductor. Firstly, the extremely high absorption coefficients in the visible range offer the possibility to prepare very thin photo detectors and photovoltaic cells. What’s more, the emit waves swiftly shift to absorption, so there are almost no reabsorption losses in OLED, and the much lower refraction makes OLED much more efficient (Meerheim, 2006). Besides, there is almost unlimited number of chemical compounds available for OLED, so it would hardly be running out.
 
 Conclusion:
 The main reason this material can be popularized and even can replace the traditional material is that developers can constantly find more possibilities and design original product that would satisfy their creativities and surprise costumers.
+
+Citation:
+Eritt, M., C. May, K. Leo, M. Toerker, and C. Radehaus. "OLED Manufacturing for Large Area Lighting Applications." Thin Solid Films 518.11 (2010): 3042-045. Web.
+Lin, Yuan-Yu, Yi-Neng Chang, Ming-Hung Tseng, Ching-Chiun Wang, and Feng-Yu Tsai. "Air-Stable Flexible Organic Light-emitting Diodes Enabled by Atomic Layer Deposition." Nanotechnology (2014): 024005. Print. 
+Meerheim, Rico, Karsten Walzer, Gufeng He, Martin Pfeiffer, and Karl Leo. "Highly Efficient Organic Light Emitting Diodes (OLED) for Diplays and Lighting." Organic Optoelectronics and Photonics II (2006): n. pag. Web.
