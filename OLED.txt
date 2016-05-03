@@ -1,8 +1,20 @@
+Introduction:
 OLED, abbreviation for Organic Light-emitting Diode, is a light-emitting diode (LED) that contains a layer of organic compound that emits the light in response to electric current. Recently, developers and scientists tend to concentrate on this material, and OLED is used much more common in latest products such as television screen, computer monitors, mobile phones and so on. This paper is focused on what advantages does OLED have, and the future of OLED.
 
+Background:
 The OLED performance and stability have been rapidly increased over the last years. Also, the size of the devices are growing and several applications like displays and general lighting are produced (Errit, 2010). Traditionally, LED has been the major material for these products for years, but recently, OLED has been brought forward and compared with LED. However, having many incomparable advantages and the new technologies that fix the flaws of OLED, this new material is gradually taking place of the LED, and extends more kinds of products that cannot be made of LED.
 
-OLED is highly efficient in emitting distribution for displays and lightings. As an organic semiconductor, it has many unique physical properties, which surpass inorganic semiconductor. Firstly, the extremely high absorption coefficients in the visible range offer the possibility to prepare very thin photo detectors and photovoltaic cells. What’s more, the emit waves swiftly shift to absorption, so there are almost no reabsorption losses in OLED and the much lower refraction makes OLED much more efficient (Meerheim, 2006). Besides, there is almost unlimited number of chemical compounds available for OLED, so it would hardly be running out.
+Discussion:
+OLED has been not only an important display technology but also a promising option for energy-efficient lighting applications, due to its high efficient in emitting wavelength distributions (Lin, 2014).
 
+OLED is highly efficient in emitting distribution for displays and lightings. As an organic semiconductor, it has many unique physical properties, which surpass inorganic semiconductor. Firstly, the extremely high absorption coefficients in the visible range offer the possibility to prepare highly thin photo detectors and photovoltaic cells. What’s more, the emit waves swiftly shift to absorption, so there are almost no reabsorption losses in OLED and the much lower refraction makes OLED much more efficient (Meerheim, 2006). Besides, there is almost unlimited number of chemical compounds available for OLED, so it would hardly be running out.
+
+Conclusion:
 The main reason this material can be popularized and even can replace the traditional material is that developers can constantly find more possibilities and design original product that would satisfy their creativities and surprise costumers.
+
+Citation:
+Eritt, M., C. May, K. Leo, M. Toerker, and C. Radehaus. "OLED Manufacturing for Large Area Lighting Applications." Thin Solid Films 518.11 (2010): 3042-045. Web.
+Lin, Yuan-Yu, Yi-Neng Chang, Ming-Hung Tseng, Ching-Chiun Wang, and Feng-Yu Tsai. "Air-Stable Flexible Organic Light-emitting Diodes Enabled by Atomic Layer Deposition." Nanotechnology (2014): 024005. Print. 
+Meerheim, Rico, Karsten Walzer, Gufeng He, Martin Pfeiffer, and Karl Leo. "Highly Efficient Organic Light Emitting Diodes (OLED) for Diplays and Lighting." Organic Optoelectronics and Photonics II (2006): n. pag. Web.
+
 
